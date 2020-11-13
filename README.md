@@ -11,14 +11,16 @@
 
 
 
-<h3>🛠 Skills</h3>
+<h3>🛠 Tech Stack</h3>
 
 
 - 💻 &nbsp; Python 
 
 - 🛢 &nbsp; SQL | SQLite | PostgreSQL
 
-- 🔧 &nbsp; AWS | Docker🐳 
+- ⚙️ &nbsp; Visual Studio Code | Jupyter NoteBook | Git | GitHub | Markdown
+
+- 🔧 &nbsp; AWS | Docker🐳  | Anaconda Environments
 
 <hr>
 
