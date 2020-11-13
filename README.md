@@ -12,7 +12,7 @@
 
 
 
-<h3>🛠 Tools</h3>
+<h3>🛠 Skills</h3>
 
 
 - 💻 &nbsp; Python 
