@@ -24,8 +24,6 @@
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<br>
-
 <p align="center">
 
 <a href="https://www.linkedin.com/in/mohamed-ed/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mohamed%20Ed-blue?style=flat-square&logo=linkedin"></a>
