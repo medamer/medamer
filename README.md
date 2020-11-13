@@ -19,7 +19,7 @@
 
 - 🛢 &nbsp; SQL | SQLite | PostgreSQL
 
-- 🔧 &nbsp; AWS | Docker🐳 | FastAPI 
+- 🔧 &nbsp; AWS | Docker🐳 
 
 <hr>
 
