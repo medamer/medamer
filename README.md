@@ -5,8 +5,7 @@
 <h3> 👨🏻•💻 About Me </h3>
 
 
-- 🤔 &nbsp; Data Scientist who is skillful in data mining, data wrangling, and using Python for machine learning and predictive analysis.
-
+- 🤔 &nbsp; Data Scientist with a background in analytics and supply chain, who enjoys working with large data sets and improving the skills acquired in recent years. Goal-oriented confident professional, who is a good team player and enthusiastic about machine learning and predictive modeling.
 - 🎓 &nbsp; Studied Data Science and Machine Learning Engineering at Lambda School.
 
 
