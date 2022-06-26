@@ -13,6 +13,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
+- ![image](https://user-images.githubusercontent.com/63076838/175830035-2292c5d6-9211-411a-801e-a749f4017e74.png) &nbsp; Power BI 
 
 - 💻 &nbsp; Python 
 
