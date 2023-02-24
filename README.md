@@ -7,7 +7,7 @@
 
 - 🤔 &nbsp; Data Scientist with a background in analytics and supply chain, who enjoys working with large data sets and improving the skills acquired in recent years. Goal-oriented confident professional, who is a good team player and enthusiastic about machine learning and predictive modeling.
 
-- 🎓 &nbsp; Studied Data Science and Machine Learning Engineering at Lambda School.
+- 🎓 &nbsp; Studied Data Science and Machine Learning at Lambda School.
 
 
 
